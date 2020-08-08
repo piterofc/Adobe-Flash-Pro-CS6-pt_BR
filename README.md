@@ -13,5 +13,5 @@ Tradução brasileira do Adobe Flash Professional CS6
 
 E feito! Seu flash está agora em portuês do Brasil! Bons designs!
 
-## Licensa
+## Licença
 [MIT](https://choosealicense.com/licenses/mit)
