@@ -15,3 +15,7 @@ E feito! Seu flash está agora em portuês do Brasil! Bons designs!
 
 ## Licença
 [MIT](https://choosealicense.com/licenses/mit)
+
+## Direitos
+
+Todos os direitos reservados a Pedro Henrique (Piter) - 2020
